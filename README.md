@@ -1,3 +1,3 @@
 # Team work
 
-Goose goose duck 2
+Goose goose duck
